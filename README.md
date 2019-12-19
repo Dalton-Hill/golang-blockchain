@@ -1,0 +1,1 @@
+Basic blockchain project for learning purposes. All credit to [Tensor Programming](https://www.youtube.com/channel/UCYqCZOwHbnPwyjawKfE21wg/featured)
